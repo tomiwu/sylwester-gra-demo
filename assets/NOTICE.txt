@@ -4,6 +4,7 @@ Source photos (Pexels License, commercial use, attribution optional):
 - Couple with raised arms: pexels.com/photo/27236463/ — Amine Ispir
 Stylised poster couples used in-game (warstwy/sylwetki/sylwetki-pary.png).
 Logo: official Gosciniec Uniejow mark (warstwy/logo/logo-gold.png).
-Skyline and clock ring: original generated art for the game background.
+Clock ring: original generated art for the game.
+Backdrop views: see CREDITS-LICENCES.txt (hotel photographs and Wikimedia Commons).
 Cinzel and GFS Didot: SIL Open Font License 1.1 (see public/fonts/NOTICE.txt).
 Item sprites (glass, star, pocket watch, shattered glass): original generated art for the game.

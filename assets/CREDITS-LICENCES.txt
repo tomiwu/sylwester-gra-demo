@@ -1,0 +1,74 @@
+CREDITS AND LICENCES — backdrop photographs
+Game: Sylwester 2026/2027, Gosciniec Uniejow
+
+The art-deco clock, couple silhouettes, logo and item sprites are listed in NOTICE.txt.
+
+The five in-round views follow the game clock (equal slots on remaining game time):
+  1. Hotel hall / circular LED portal
+  2. Kolegiata in Uniejow (church)
+  3. Castle in Uniejow (Zamek)
+  4. Termy Uniejow (hot springs)
+  5. Hotel from an elevated / aerial view, near midnight
+
+--------------------------------------------------------------------------
+1. Hotel hall (view-hall.webp, view-hall-wide.webp)
+--------------------------------------------------------------------------
+Source: official campaign photograph of the Gosciniec Uniejow ballroom,
+file warstwy/tlo/base-tlo-centralne.jpg (empty hall with the LED portal).
+Rights: hotel-owned. Used with permission of Gosciniec Uniejow.
+Treatment: portrait (and wide) crop and a dark vignette / overlay only.
+No colour grade, no stretch, no distortion, no AI change of the photograph.
+
+--------------------------------------------------------------------------
+2. Kolegiata, Uniejow (view-church.webp)
+--------------------------------------------------------------------------
+Source file: Kolegiata pw. Najswietszej Maryi Panny w Uniejowie.jpg
+Author: Masandro
+Licence: CC BY-SA 4.0
+Licence URL: https://creativecommons.org/licenses/by-sa/4.0
+Commons: https://commons.wikimedia.org/wiki/File:Kolegiata_pw._Najświętszej_Maryi_Panny_w_Uniejowie.jpg
+Treatment: portrait crop, night-gold colour grade, dark vignette.
+This file is a modified version of the work and is released under CC BY-SA 4.0.
+
+--------------------------------------------------------------------------
+3. Castle, Uniejow (view-castle.webp)
+--------------------------------------------------------------------------
+Source file: O zmierzchu nad Warta.jpg
+Author: Annkes
+Licence: CC BY 3.0
+Licence URL: https://creativecommons.org/licenses/by/3.0
+Commons: https://commons.wikimedia.org/wiki/File:O_zmierzchu_nad_Wartą.jpg
+Treatment: portrait crop (tower in the clock), night-gold colour grade, dark vignette.
+This file is a modified version of the work. Attribution: Annkes, CC BY 3.0.
+
+--------------------------------------------------------------------------
+4. Termy Uniejow (view-termy.webp)
+--------------------------------------------------------------------------
+Source file: Termy Uniejow 5.JPG
+Author: Beemwej
+Licence: CC BY 3.0
+Licence URL: https://creativecommons.org/licenses/by/3.0
+Commons: https://commons.wikimedia.org/wiki/File:Termy_Uniejów_5.JPG
+Date: 15 March 2013
+Treatment: portrait crop (facade and sign in the clock), night-gold colour grade, dark vignette.
+This file is a modified version of the work. Attribution: Beemwej, CC BY 3.0.
+
+--------------------------------------------------------------------------
+5. Hotel aerial (view-aerial.webp, view-aerial-wide.webp)
+--------------------------------------------------------------------------
+Source: official hotel website, file Lokalizacja_GU.jpg
+URL: https://gosciniecuniejow.pl/wp-content/uploads/2025/09/Lokalizacja_GU.jpg
+Page context: Gosciniec Uniejow website (lokalizacja / about the site).
+Rights: hotel-owned photograph as published on the official website.
+Treatment: portrait (and wide) crop below the baked-in typography panel,
+plus a dark vignette / overlay only. No colour grade, no stretch, no AI change.
+
+LIMITATION: the official file is 600 x 600 pixels and includes a gold
+"Biznes w spokojnej atmosferze" text panel at the top. The crop removes the
+panel. The upscaled portrait is soft. A higher-resolution hotel-owned
+drone or aerial photograph (no typography, dusk or night preferred,
+at least about 2000 px on the long side, rights cleared, croppable to
+a tall portrait with the building in the upper half) should replace this view.
+
+--------------------------------------------------------------------------
+In-game credit line (Polish): "Zdjecia: Gosciniec Uniejow, Masandro, Annkes, Beemwej"
