@@ -1,0 +1,8 @@
+Campaign silhouettes: from the official NYE 2026/2027 posters for Gosciniec Uniejow.
+Source photos (Pexels License, commercial use, attribution optional):
+- Couple tango: pexels.com/photo/couple-dancing-tango-8281140/ — Los Muertos Crew
+- Couple with raised arms: pexels.com/photo/27236463/ — Amine Ispir
+Stylised poster couples used in-game (warstwy/sylwetki/sylwetki-pary.png).
+Logo: official Gosciniec Uniejow mark (warstwy/logo/logo-gold.png).
+Skyline and clock ring: original generated art for the game background.
+Cinzel and GFS Didot: SIL Open Font License 1.1 (see public/fonts/NOTICE.txt).
