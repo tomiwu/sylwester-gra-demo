@@ -6,3 +6,4 @@ Stylised poster couples used in-game (warstwy/sylwetki/sylwetki-pary.png).
 Logo: official Gosciniec Uniejow mark (warstwy/logo/logo-gold.png).
 Skyline and clock ring: original generated art for the game background.
 Cinzel and GFS Didot: SIL Open Font License 1.1 (see public/fonts/NOTICE.txt).
+Item sprites (glass, star, pocket watch, shattered glass): original generated art for the game.
