@@ -1,0 +1,9 @@
+Cinzel (regular and bold instances in this folder)
+Copyright (c) 2012, Natanael Gama (www.ndiscovered.com)
+Licensed under the SIL Open Font License, Version 1.1.
+https://scripts.sil.org/OFL
+
+GFS Didot (regular instance in this folder)
+Copyright (c) 1997-2005, Greek Font Society.
+Licensed under the SIL Open Font License, Version 1.1.
+https://scripts.sil.org/OFL
